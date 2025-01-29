@@ -2,8 +2,10 @@
 
 ##
 
-- 👩🏽‍💻 Estudante de análise e desenvolvimento de sistemas
+- 👩🏽‍💻 Formada em Análise e Desenvolvimento de Sistemas
 - 💻 Focada na área de desenvolvimento front end e UI/UX Design
+
+Meu Portifólio: https://angelicadev.netlify.app/
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angellica06&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9&bg_color=0d1117" alt="Angélica Anjos github stats" /> 
