@@ -1,6 +1,6 @@
 <img width=100% src="https://github.com/user-attachments/assets/65e6ddf1-f4a0-4af4-a145-5995972dc365"/>
 
-### Olá! Eu sou Angélica Anjos 👋
+# Olá! Eu sou Angélica Anjos 👋
 
 ##
 
