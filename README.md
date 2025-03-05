@@ -2,8 +2,6 @@
 
 # Olá! Eu sou Angélica Anjos 👋
 
-##
-
 ### 🚀 Sobre Mim  
 
 - 👩🏽‍💻 **Formada em Análise e Desenvolvimento de Sistemas**  
