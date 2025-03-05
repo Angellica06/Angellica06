@@ -1,11 +1,17 @@
+<img width=100% src="https://github.com/user-attachments/assets/65e6ddf1-f4a0-4af4-a145-5995972dc365"/>
+
 ### Olá! Eu sou Angélica Anjos 👋
 
 ##
 
-- 👩🏽‍💻 Formada em Análise e Desenvolvimento de Sistemas
-- 💻 Focada na área de desenvolvimento front end e UI/UX Design
+### 🚀 Sobre Mim  
 
-Meu Portifólio: https://angelicadev.netlify.app/
+- 👩🏽‍💻 **Formada em Análise e Desenvolvimento de Sistemas**  
+- 💻 **Focada no desenvolvimento Front-End e UI/UX Design**  
+
+📌 **Meu Portfólio:** [angelicadev.netlify.app](https://angelicadev.netlify.app/)
+
+##
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angellica06&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9&bg_color=0d1117" alt="Angélica Anjos github stats" /> 
@@ -20,7 +26,6 @@ Meu Portifólio: https://angelicadev.netlify.app/
     <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-
 ##
 
 <div align="center"> 
@@ -28,5 +33,3 @@ Meu Portifólio: https://angelicadev.netlify.app/
   <a href="https://www.linkedin.com/in/angélica-anjos6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" 
   target="_blank"></a> 
 </div>
-
-
